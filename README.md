@@ -2,14 +2,8 @@
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_GITHUB_ID/stochastic-biophysics-lab/blob/main/stochastic_biophysics_practice.ipynb)
 
-이 저장소는 2026 서울대학교 여름학기 `생물물리학입문` 특강을 위한 교육자료입니다.
+이 repository는 2026 서울대학교 여름학기 `생물물리학입문` 특강을 위한 교육자료입니다.
 NumPy와 Matplotlib 기초부터 확률분포, random walk, Markov chain, birth-death model, Gillespie SSA까지 한 노트북에서 실습합니다.
-
-아이디어와 내용 구성은 저자가 작성했고, Philip Nelson 교수님의 교재를 참고했습니다. Codex는 Jupyter notebook 제작에 기여했습니다.
-
-## Colab
-
-위의 Colab badge를 누른 뒤 `Runtime > Run all`로 실행합니다.
 
 ## Topics
 
