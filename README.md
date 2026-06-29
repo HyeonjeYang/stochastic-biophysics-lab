@@ -20,6 +20,7 @@ NumPy와 Matplotlib 기초부터 확률분포, random walk, Markov chain, birth-
 - Poisson process, waiting time
 - Birth-death model, Gillespie stochastic simulation algorithm
 - Simple stochastic chemical reaction examples
+- Simple curve fitting with SciPy
 
 ## Local Run
 
