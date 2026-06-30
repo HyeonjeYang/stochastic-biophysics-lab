@@ -3,6 +3,8 @@
 이 repository는 2026 서울대학교 여름학기 `생물물리학입문` 특강을 위한 교육자료입니다.
 NumPy와 Matplotlib 기초부터 확률분포, random walk, Markov chain, birth-death model, Gillespie SSA까지 한 노트북에서 실습합니다.
 
+Enjoy~!
+
 ## Topics
 
 - NumPy arrays, random numbers, Matplotlib plots
